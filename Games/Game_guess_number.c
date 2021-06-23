@@ -2,8 +2,6 @@
 # include <stdlib.h>
 # include <time.h>
 
-// This code was created by Daksh Varshney
-
 int main()
 {
     int num,guess;
